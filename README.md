@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Biochemist+by+day%2C+Programmer+also+by+day!;Bridging+Science+%26+Technology+with+Passion" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Biochemist+by+day%2C+Programmer+also+by+day+lol!;Bridging+Science+%26+Technology+with+Passion" alt="Typing SVG">
 </p>
 
 ---
