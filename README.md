@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- You can replace this with your own banner image -->
+  <!-- Replace with your own banner image if available -->
   <img src="https://raw.githubusercontent.com/Daniel-Shunom/Daniel-Shunom/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
@@ -71,13 +71,39 @@ Hello! I'm a **biochemist** 🧪 and a **programmer** 💻, harmonizing the worl
 
 ## 🎨 Projects & Contributions
 
+### [ML Model for ADRB1 IC50 Prediction](https://github.com/Daniel-Shunom/ML-MODEL-FOR-ADRB1-IC50-Predection)
+
 <p align="center">
-  <!-- Example Project Card -->
-  <a href="https://github.com/Daniel-Shunom/YourProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Shunom&repo=YourProject&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Project Card" />
+  <a href="https://github.com/Daniel-Shunom/ML-MODEL-FOR-ADRB1-IC50-Predection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Shunom&repo=ML-MODEL-FOR-ADRB1-IC50-Predection&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="ML Model for ADRB1 IC50 Prediction" />
   </a>
-  <!-- Add more project cards as needed -->
 </p>
+
+A machine learning model designed to predict IC50 values for the ADRB1 receptor, aiding in drug discovery and pharmacological research.
+
+---
+
+### [Dr Cloud](https://github.com/Daniel-Shunom/dr-cloud)
+
+<p align="center">
+  <a href="https://github.com/Daniel-Shunom/dr-cloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Shunom&repo=dr-cloud&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Dr Cloud" />
+  </a>
+</p>
+
+An innovative cloud-based platform for medical professionals to securely store, manage, and share patient data, enhancing collaboration and patient care.
+
+---
+
+### [Spectral NMR Project](https://github.com/Daniel-Shunom/SPECTRAL_NMR_PROJECT)
+
+<p align="center">
+  <a href="https://github.com/Daniel-Shunom/SPECTRAL_NMR_PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Shunom&repo=SPECTRAL_NMR_PROJECT&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Spectral NMR Project" />
+  </a>
+</p>
+
+A comprehensive project focused on processing and analyzing NMR spectroscopy data to facilitate molecular structure elucidation and research advancements.
 
 ---
 
