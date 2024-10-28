@@ -39,7 +39,7 @@ Book Lover: Avid reader of science fiction and mystery novels 📚.
 Culinary Explorer: Enjoy experimenting with new recipes and flavors 🍳.
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/YourUsername/your-divider-image.png" alt="Divider"> </p> <p align="center"> <i>"Science and technology are the driving forces of innovation. Let's harness them together!"</i> </p> <p align="center"> <img src="https://user-images.githubusercontent.com/YourUsername/your-footer-image.png" alt="Footer"> </p>
+<p align="center"> <!-- You can replace this with your own divider image --> <img src="https://user-images.githubusercontent.com/Daniel-Shunom/your-divider-image.png" alt="Divider"> </p> <p align="center"> <i>"Science and technology are the driving forces of innovation. Let's harness them together!"</i> </p> <p align="center"> <!-- You can replace this with your own footer image --> <img src="https://user-images.githubusercontent.com/Daniel-Shunom/your-footer-image.png" alt="Footer"> </p>
 
 Looking forward to collaborating and pushing the boundaries of what's possible!
 <!---
