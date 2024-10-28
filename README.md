@@ -24,10 +24,14 @@ Cutting-edge Full-Stack Techniques: Building comprehensive applications from the
 📈 GitHub Stats
 <p align="center"> <!-- GitHub Stats Card --> <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Shunom&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&hide=contribs" alt="GitHub Stats" width="48%" /> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-Shunom&theme=radical&hide_border=true&border_radius=15&background=0D1117&stroke=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" width="48%" /> </p> <p align="center"> <!-- GitHub Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Shunom&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages" width="50%" /> </p>
 
+🎨 Projects & Contributions
+<p align="center"> <!-- Example Project Card --> <a href="https://github.com/Daniel-Shunom/YourProject"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Shunom&repo=YourProject&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Project Card" /> </a> <!-- Add more project cards as needed --> </p>
+
+
 📫 Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me!
 
-<p align="center"> <a href="mailto:dsj11@gmail.com"><img src="https://img.shields.io/badge/Email-dsj11@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/YourLinkedIn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a> </p>
+<p align="center"> <a href="mailto:dsj11@gmail.com"> <img src="https://img.shields.io/badge/Email-dsj11@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/daniel-jeremiah-177416245/"> <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Jeremiah-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/Daniel-Shunom"> <img src="https://img.shields.io/badge/GitHub-Daniel--Shunom-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"> </a> </p>
 
 🌟 Fun Facts
 Nature Enthusiast: I love hiking and exploring the outdoors 🌲.
