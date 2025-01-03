@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Replace with your own banner image if available -->
-  <img src="[https://raw.githubusercontent.com/Daniel-Shunom/Daniel-Shunom/main/assets/banner.png](https://github.com/Daniel-Shunom/Daniel-Shunom/blob/main/banner.jpeg)" alt="Banner" width="100%" />
+  <img src="/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Welcome! I'm <strong>Daniel Shunom</strong> 👋</h1>
