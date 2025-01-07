@@ -20,7 +20,7 @@
 
 ## 🧬 About Me
 
-Hello! I'm a **biochemist** 🧪 and a **programmer** 💻, harmonizing the worlds of molecules and code with a blend of professionalism and a dash of fun. Passionate about leveraging technology to unlock scientific discoveries and create impactful solutions.
+Hello! I'm a **Biochemist** 🧪 and a self taught **Software Developer** 💻. Passionate about everything Technology and Biochemistry.
 
 - **Pronouns:** He/him 🙋‍♂️
 - **Interests:** Machine Learning 🤖, Full-Stack Development 🌐
@@ -31,7 +31,7 @@ Hello! I'm a **biochemist** 🧪 and a **programmer** 💻, harmonizing the worl
 ## 💻 What I Do
 
 - **Biochemistry:** Exploring molecular intricacies to unveil the secrets of life.
-- **Programming:** Crafting elegant code to solve complex problems and drive innovation.
+- **Software Development:** Crafting elegant code to solve complex problems and drive innovation.
 
 ---
 
@@ -39,7 +39,7 @@ Hello! I'm a **biochemist** 🧪 and a **programmer** 💻, harmonizing the worl
 
 - **Deep Learning Architectures:** Enhancing AI capabilities through advanced neural networks.
 - **Performance Algorithms:** Optimizing code for maximum efficiency and scalability.
-- **Cutting-edge Full-Stack Techniques:** Building comprehensive applications from the ground up.
+- **Cutting-edge Full-Stack System Designs:** Building comprehensive applications from the ground up.
 
 ---
 
