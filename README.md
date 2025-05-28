@@ -48,65 +48,28 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
 
 ## 🌟 Selected Projects
 
-<div align="center">
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:1rem; max-width:1000px;">
-  
-    <!-- Glindo Card -->
-    <div style="
-      background-color: #FFF3F8;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-      padding: 1.25rem;
-      flex: 1 1 280px;
-      min-width: 280px;
-      text-align: left;
-    ">
-      <h3 style="margin-top:0; color:#FF6EC7; border-bottom: 3px solid #FF6EC7; display:inline-block; padding-bottom:4px;">
-        Glindo
-      </h3>
-      <p style="margin:0.75rem 0;"><strong>Description:</strong> A simple parser combinator library for building composable parsers.</p>
-      <p style="margin:0.5rem 0;"><strong>Stack:</strong> Gleam</p>
-      <p style="margin:0.5rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">github.com/Daniel-Shunom/glindo</a></p>
-    </div>
-  
-    <!-- Dr Cloud Card -->
-    <div style="
-      background-color: #E8FEFC;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-      padding: 1.25rem;
-      flex: 1 1 280px;
-      min-width: 280px;
-      text-align: left;
-    ">
-      <h3 style="margin-top:0; color:#6CD3BF; border-bottom: 3px solid #6CD3BF; display:inline-block; padding-bottom:4px;">
-        Dr Cloud
-      </h3>
-      <p style="margin:0.75rem 0;"><strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.</p>
-      <p style="margin:0.5rem 0;"><strong>Stack:</strong> TypeScript • Next.JS • MongoDB</p>
-      <p style="margin:0.5rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">github.com/Daniel-Shunom/dr-cloud</a></p>
-    </div>
-  
-    <!-- Distributed Neural Networks Card -->
-    <div style="
-      background-color: #FFF8E8;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-      padding: 1.25rem;
-      flex: 1 1 280px;
-      min-width: 280px;
-      text-align: left;
-    ">
-      <h3 style="margin-top:0; color:#FFCB3E; border-bottom: 3px solid #FFCB3E; display:inline-block; padding-bottom:4px;">
-        Distributed Neural Networks
-      </h3>
-      <p style="margin:0.75rem 0;"><strong>Description:</strong> Proof-of-concept distributed ML architecture for training small models across nodes.</p>
-      <p style="margin:0.5rem 0;"><strong>Stack:</strong> C++ • CMake</p>
-      <p style="margin:0.5rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">github.com/Daniel-Shunom/Distributed_NeuralNet_C-</a></p>
-    </div>
-  
-  </div>
-</div>
+<table align="center" style="border-collapse: separate; border-spacing: 1rem;">
+  <tr>
+    <td style="background-color:#FFF3F8; border-radius:12px; padding:1rem; vertical-align:top; width:32%;">
+      <h3 style="margin:0 0 0.5rem; color:#FF6EC7; border-bottom:2px solid #FF6EC7; display:inline-block;">Glindo</h3>
+      <p style="margin:0.5rem 0;"><strong>Description:</strong> A simple parser combinator library for building composable parsers.</p>
+      <p style="margin:0.25rem 0;"><strong>Stack:</strong> Gleam</p>
+      <p style="margin:0.25rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">github.com/Daniel-Shunom/glindo</a></p>
+    </td>
+    <td style="background-color:#E8FEFC; border-radius:12px; padding:1rem; vertical-align:top; width:32%;">
+      <h3 style="margin:0 0 0.5rem; color:#6CD3BF; border-bottom:2px solid #6CD3BF; display:inline-block;">Dr Cloud</h3>
+      <p style="margin:0.5rem 0;"><strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.</p>
+      <p style="margin:0.25rem 0;"><strong>Stack:</strong> TypeScript • Next.JS • MongoDB</p>
+      <p style="margin:0.25rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">github.com/Daniel-Shunom/dr-cloud</a></p>
+    </td>
+    <td style="background-color:#FFF8E8; border-radius:12px; padding:1rem; vertical-align:top; width:32%;">
+      <h3 style="margin:0 0 0.5rem; color:#FFCB3E; border-bottom:2px solid #FFCB3E; display:inline-block;">Distributed Neural Networks</h3>
+      <p style="margin:0.5rem 0;"><strong>Description:</strong> Proof-of-concept distributed ML architecture for training small models across nodes.</p>
+      <p style="margin:0.25rem 0;"><strong>Stack:</strong> C++ • CMake</p>
+      <p style="margin:0.25rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">github.com/Daniel-Shunom/Distributed_NeuralNet_C-</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -142,3 +105,4 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
 <p align="center">
   <em style="color:#FF6EC7;">"Science and technology are the driving forces of innovation. Let’s collaborate to make an impact."</em>
 </p>
+```
