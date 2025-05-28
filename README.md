@@ -37,34 +37,40 @@ Passionate Biochemist turned Software Developer, blending molecular science with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Gleam-FFEC00?style=for-the-badge&logo=gleam&logoColor=black" alt="Gleam">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
 ---
 
 ## 🌟 Selected Projects
 
-### ML Model for ADRB1 IC50 Prediction
-
-- **Description:** Predictive model for β1-adrenergic receptor IC50 values to accelerate drug discovery.
-- **Stack:** Python • scikit-learn • TensorFlow
-- **Repo:** [ML-MODEL-FOR-ADRB1-IC50-Predection](https://github.com/Daniel-Shunom/ML-MODEL-FOR-ADRB1-IC50-Predection)
-
-### Dr Cloud
-
-- **Description:** Secure, HIPAA-compliant cloud platform for medical data management and collaboration.
-- **Stack:** Next.js • Node.js • MongoDB • Docker
-- **Repo:** [dr-cloud](https://github.com/Daniel-Shunom/dr-cloud)
-
-### Spectral NMR Data Analysis
-
-- **Description:** Automated pipeline for NMR spectroscopy data processing and molecular structure elucidation.
-- **Stack:** Python • NumPy • pandas
-- **Repo:** [SPECTRAL_NMR_PROJECT](https://github.com/Daniel-Shunom/SPECTRAL_NMR_PROJECT)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" valign="top" width="33%">
+        <h3>ML Model for ADRB1 IC50 Prediction</h3>
+        - <strong>Description:</strong> Predictive model for β1-adrenergic receptor IC50 values to accelerate drug discovery.<br>
+        - <strong>Stack:</strong> Python • scikit-learn • TensorFlow<br>
+        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/ML-MODEL-FOR-ADRB1-IC50-Predection">ML-MODEL-FOR-ADRB1-IC50-Predection</a>
+      </td>
+      <td align="left" valign="top" width="33%">
+        <h3>Dr Cloud</h3>
+        - <strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.<br>
+        - <strong>Stack:</strong> Next.js • Node.js • MongoDB • Docker<br>
+        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">dr-cloud</a>
+      </td>
+      <td align="left" valign="top" width="33%">
+        <h3>Spectral NMR Data Analysis</h3>
+        - <strong>Description:</strong> Automated pipeline for NMR spectroscopy data processing and molecular structure elucidation.<br>
+        - <strong>Stack:</strong> Python • NumPy • pandas<br>
+        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/SPECTRAL_NMR_PROJECT">SPECTRAL_NMR_PROJECT</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
