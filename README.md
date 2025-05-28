@@ -25,7 +25,7 @@
 
 ## 🎨 About Me
 
-Passionate Biochemist turned Software Developer, blending molecular science with cutting-edge technology.
+Passionate Biochemist and Software Developer, blending molecular science with cutting-edge technology.
 
 - **Pronouns:** <img src="https://img.shields.io/badge/He/Him-1DA1F2?style=flat-square&logo=Handshake&logoColor=white" alt="Pronouns">
 - **Interests:** <img src="https://img.shields.io/badge/Machine_Learning-FF6EB4?style=flat-square&logo=TensorFlow&logoColor=white" alt="ML"/>  <img src="https://img.shields.io/badge/Full-Stack_Dev-6CDBD5?style=flat-square&logo=React&logoColor=white" alt="Full Stack"/>
@@ -37,10 +37,10 @@ Passionate Biochemist turned Software Developer, blending molecular science with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Gleam-FFEC00?style=for-the-badge&logo=gleam&logoColor=black" alt="Gleam">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Gleam-FFEC00?style=for-the-badge&logo=gleam&logoColor=pink" alt="Gleam">
 </p>
 
 ---
@@ -51,22 +51,22 @@ Passionate Biochemist turned Software Developer, blending molecular science with
   <table>
     <tr>
       <td align="left" valign="top" width="33%">
-        <h3>ML Model for ADRB1 IC50 Prediction</h3>
-        - <strong>Description:</strong> Predictive model for β1-adrenergic receptor IC50 values to accelerate drug discovery.<br>
-        - <strong>Stack:</strong> Python • scikit-learn • TensorFlow<br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/ML-MODEL-FOR-ADRB1-IC50-Predection">ML-MODEL-FOR-ADRB1-IC50-Predection</a>
+        <h3>Glindo</h3>
+        - <strong>Description:</strong>A simple parser combinator library for building composable parsers.<br>
+        - <strong>Stack:</strong> Gleam <br>
+        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">ML-MODEL-FOR-ADRB1-IC50-Predection</a>
       </td>
       <td align="left" valign="top" width="33%">
         <h3>Dr Cloud</h3>
         - <strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.<br>
-        - <strong>Stack:</strong> Next.js • Node.js • MongoDB • Docker<br>
+        - <strong>Stack:</strong> TypeScript • Next.JS • MongoDB <br>
         - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">dr-cloud</a>
       </td>
       <td align="left" valign="top" width="33%">
-        <h3>Spectral NMR Data Analysis</h3>
-        - <strong>Description:</strong> Automated pipeline for NMR spectroscopy data processing and molecular structure elucidation.<br>
-        - <strong>Stack:</strong> Python • NumPy • pandas<br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/SPECTRAL_NMR_PROJECT">SPECTRAL_NMR_PROJECT</a>
+        <h3>Distributed Neural Networks</h3>
+        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML.<br>
+        - <strong>Stack:</strong> C++ • CMake <br>
+        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">DNN</a>
       </td>
     </tr>
   </table>
