@@ -1,4 +1,5 @@
 <p align="center">
+  <!-- Replace with your own banner image if available -->
   <img src="/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
@@ -48,28 +49,63 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
 ## 🌟 Selected Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="left" valign="top" width="33%">
-        <h3>Glindo</h3>
-        - <strong>Description:</strong>A simple parser combinator library for building composable parsers.<br>
-        - <strong>Stack:</strong> Gleam <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">ML-MODEL-FOR-ADRB1-IC50-Predection</a>
-      </td>
-      <td align="left" valign="top" width="33%">
-        <h3>Dr Cloud</h3>
-        - <strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.<br>
-        - <strong>Stack:</strong> TypeScript • Next.JS • MongoDB <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">dr-cloud</a>
-      </td>
-      <td align="left" valign="top" width="33%">
-        <h3>Distributed Neural Networks</h3>
-        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML.<br>
-        - <strong>Stack:</strong> C++ • CMake <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">DNN</a>
-      </td>
-    </tr>
-  </table>
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:1rem; max-width:1000px;">
+  
+    <!-- Glindo Card -->
+    <div style="
+      background-color: #FFF3F8;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      padding: 1.25rem;
+      flex: 1 1 280px;
+      min-width: 280px;
+      text-align: left;
+    ">
+      <h3 style="margin-top:0; color:#FF6EC7; border-bottom: 3px solid #FF6EC7; display:inline-block; padding-bottom:4px;">
+        Glindo
+      </h3>
+      <p style="margin:0.75rem 0;"><strong>Description:</strong> A simple parser combinator library for building composable parsers.</p>
+      <p style="margin:0.5rem 0;"><strong>Stack:</strong> Gleam</p>
+      <p style="margin:0.5rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">github.com/Daniel-Shunom/glindo</a></p>
+    </div>
+  
+    <!-- Dr Cloud Card -->
+    <div style="
+      background-color: #E8FEFC;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      padding: 1.25rem;
+      flex: 1 1 280px;
+      min-width: 280px;
+      text-align: left;
+    ">
+      <h3 style="margin-top:0; color:#6CD3BF; border-bottom: 3px solid #6CD3BF; display:inline-block; padding-bottom:4px;">
+        Dr Cloud
+      </h3>
+      <p style="margin:0.75rem 0;"><strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.</p>
+      <p style="margin:0.5rem 0;"><strong>Stack:</strong> TypeScript • Next.JS • MongoDB</p>
+      <p style="margin:0.5rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">github.com/Daniel-Shunom/dr-cloud</a></p>
+    </div>
+  
+    <!-- Distributed Neural Networks Card -->
+    <div style="
+      background-color: #FFF8E8;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      padding: 1.25rem;
+      flex: 1 1 280px;
+      min-width: 280px;
+      text-align: left;
+    ">
+      <h3 style="margin-top:0; color:#FFCB3E; border-bottom: 3px solid #FFCB3E; display:inline-block; padding-bottom:4px;">
+        Distributed Neural Networks
+      </h3>
+      <p style="margin:0.75rem 0;"><strong>Description:</strong> Proof-of-concept distributed ML architecture for training small models across nodes.</p>
+      <p style="margin:0.5rem 0;"><strong>Stack:</strong> C++ • CMake</p>
+      <p style="margin:0.5rem 0;"><strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">github.com/Daniel-Shunom/Distributed_NeuralNet_C-</a></p>
+    </div>
+  
+  </div>
 </div>
 
 ---
