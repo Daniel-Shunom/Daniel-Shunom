@@ -25,7 +25,9 @@
 
 ## 🎨 About Me
 
-Passionate Biochemist and Software Developer, blending molecular science with cutting-edge technology.
+Passionate Biochemist and Software Developer, hoping one of these days to win a Nobel Prize :).
+In my free time, I like watching Frances Arnold's lectures on Directed Evolution, working on personal projects, and
+reading The Revenge of the Tipping Point by Malcolm Gladwell (awesome book so far btw)
 
 - **Pronouns:** <img src="https://img.shields.io/badge/He/Him-1DA1F2?style=flat-square&logo=Handshake&logoColor=white" alt="Pronouns">
 - **Interests:** <img src="https://img.shields.io/badge/Machine_Learning-FF6EB4?style=flat-square&logo=TensorFlow&logoColor=white" alt="ML"/>  <img src="https://img.shields.io/badge/Full-Stack_Dev-6CDBD5?style=flat-square&logo=React&logoColor=white" alt="Full Stack"/>
@@ -47,6 +49,13 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
 
 ## 🌟 Selected Projects
 
+These are projects that I was really happy to work on because I 
+- Learned something new from them
+- Got to use them myself,
+- Ultimately had fun working on them.
+
+So if you find them cool as well, give them a star won't you?
+
 <div align="center">
   <table>
     <tr>
@@ -54,7 +63,7 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
         <h3>Glindo</h3>
         - <strong>Description:</strong>A simple parser combinator library for building composable parsers.<br>
         - <strong>Stack:</strong> Gleam <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">ML-MODEL-FOR-ADRB1-IC50-Predection</a>
+        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">Glindo</a>
       </td>
       <td align="left" valign="top" width="33%">
         <h3>Dr Cloud</h3>
@@ -85,6 +94,8 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
 
 ## 📫 Get in Touch
 
+If you like working on cool projects, want to collaborate on something interesting, or have an awesome research paper you would like me to check out, don't hesitate to reach out to me:
+
 <p align="center">
   <a href="mailto:dsj11@gmail.com">
     <img src="https://img.shields.io/badge/Email-dsj11@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
@@ -104,5 +115,5 @@ Passionate Biochemist and Software Developer, blending molecular science with cu
 </p>
 
 <p align="center">
-  <em style="color:#FF6EC7;">"Science and technology are the driving forces of innovation. Let’s collaborate to make an impact."</em>
+  <em style="color:#FF6EC7;">"Remember, you are here on this planet for the first and last time, so make sure you love the hell about what you are doing, so you can make this existence worth the while"</em>
 </p>
