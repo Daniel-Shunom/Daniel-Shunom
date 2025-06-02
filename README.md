@@ -26,6 +26,7 @@
 ## 🎨 About Me
 
 Passionate Biochemist and Software Developer, hoping one of these days to win a Nobel Prize :).
+
 In my free time, I like watching Frances Arnold's lectures on Directed Evolution, working on personal projects, and
 reading The Revenge of the Tipping Point by Malcolm Gladwell (awesome book so far btw)
 
