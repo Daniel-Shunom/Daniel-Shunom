@@ -74,7 +74,7 @@ So if you find them cool as well, give them a star, won't you?
       </td>
       <td align="left" valign="top" width="33%">
         <h3>Distributed Neural Networks</h3>
-        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML models.<br>
+        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML models (still in the works).<br>
         - <strong>Stack:</strong> C++ • CMake <br>
         - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">DNN</a>
       </td>
