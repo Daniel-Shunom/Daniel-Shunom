@@ -52,9 +52,9 @@ reading The Revenge of the Tipping Point by Malcolm Gladwell (awesome book so fa
 These are projects that I was really happy to work on because I 
 - Learned something new from them
 - Got to use them myself,
-- Ultimately had fun working on them.
+- I ultimately had fun working on them.
 
-So if you find them cool as well, give them a star won't you?
+So if you find them cool as well, give them a star, won't you?
 
 <div align="center">
   <table>
@@ -67,13 +67,13 @@ So if you find them cool as well, give them a star won't you?
       </td>
       <td align="left" valign="top" width="33%">
         <h3>Dr Cloud</h3>
-        - <strong>Description:</strong> Secure, HIPAA-compliant cloud platform for medical data management and collaboration.<br>
+        - <strong>Description:</strong> Secure, "HIPAA-compliant" cloud platform for medical data management and collaboration.<br>
         - <strong>Stack:</strong> TypeScript • Next.JS • MongoDB <br>
         - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">dr-cloud</a>
       </td>
       <td align="left" valign="top" width="33%">
         <h3>Distributed Neural Networks</h3>
-        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML.<br>
+        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML models.<br>
         - <strong>Stack:</strong> C++ • CMake <br>
         - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">DNN</a>
       </td>
@@ -115,5 +115,5 @@ If you like working on cool projects, want to collaborate on something interesti
 </p>
 
 <p align="center">
-  <em style="color:#FF6EC7;">"Remember, you are here on this planet for the first and last time, so make sure you love the hell about what you are doing, so you can make this existence worth the while"</em>
+  <em style="color:#FF6EC7;">" Remember, you are here on this planet for the first and last time, so make sure you love the hell out of what you are doing, so you can make this existence worth the while "</em>
 </p>
