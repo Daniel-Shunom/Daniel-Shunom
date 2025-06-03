@@ -118,3 +118,7 @@ If you like working on cool projects, want to collaborate on something interesti
 <p align="center">
   <em style="color:#FF6EC7;">" Remember, you are here on this planet for the first and last time, so make sure you love the hell out of what you are doing, so you can make this existence worth the while "</em>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
+</p>
