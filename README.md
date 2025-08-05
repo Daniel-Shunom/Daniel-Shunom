@@ -68,7 +68,7 @@ So if you find them cool as well, give them a star, won't you?
       </td>
       <td align="left" valign="top" width="33%">
         <h3>Dr Cloud</h3>
-        - <strong>Description:</strong> Secure, "HIPAA-compliant" cloud platform for medical data management and collaboration.<br>
+        - <strong>Description:</strong> Secure, cloud platform for medical data management and collaboration.<br>
         - <strong>Stack:</strong> TypeScript • Next.JS • MongoDB <br>
         - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">dr-cloud</a>
       </td>
