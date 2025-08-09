@@ -2,6 +2,10 @@
   <img src="/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
+<div align="center">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/<github-username>"/>  
+</div>
+
 <h1 align="center">
   <span style="color:#FF6EC7; font-size:3em;">Daniel Shunom</span>
 </h1>
