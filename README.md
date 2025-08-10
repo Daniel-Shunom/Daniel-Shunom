@@ -6,23 +6,8 @@
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/<github-username>"/>  
 </div>
 
-<h1 align="center">
-  <span style="color:#FF6EC7; font-size:3em;">Daniel Shunom</span>
-</h1>
 <p align="center">
   <strong style="font-size:1.2em; color:#6CD3BF;">Biochemist &amp; Software Developer</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:dsj11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dsj11@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-jeremiah-177416245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Jeremiah-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Daniel-Shunom">
-    <img src="https://img.shields.io/badge/GitHub-Daniel--Shunom-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
-  </a>
 </p>
 
 ---
