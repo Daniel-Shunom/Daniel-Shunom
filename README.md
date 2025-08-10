@@ -33,42 +33,6 @@ reading The Revenge of the Tipping Point by Malcolm Gladwell (awesome book so fa
 
 ---
 
-## 🌟 Selected Projects
-
-These are projects that I was really happy to work on because I 
-- Learned something new from them
-- Got to use them myself,
-- I ultimately had fun working on them.
-
-So if you find them cool as well, give them a star, won't you?
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" valign="top" width="33%">
-        <h3>Glindo</h3>
-        - <strong>Description:</strong>A simple parser combinator library for building composable parsers.<br>
-        - <strong>Stack:</strong> Gleam <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/glindo">Glindo</a>
-      </td>
-      <td align="left" valign="top" width="33%">
-        <h3>Dr Cloud</h3>
-        - <strong>Description:</strong> Secure, cloud platform for medical data management and collaboration.<br>
-        - <strong>Stack:</strong> TypeScript • Next.JS • MongoDB <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/dr-cloud">dr-cloud</a>
-      </td>
-      <td align="left" valign="top" width="33%">
-        <h3>Distributed Neural Networks</h3>
-        - <strong>Description:</strong> A proof of concept distributed ML architecture for training small ML models (still in the works).<br>
-        - <strong>Stack:</strong> C++ • CMake <br>
-        - <strong>Repo:</strong> <a href="https://github.com/Daniel-Shunom/Distributed_NeuralNet_C-">DNN</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📊 GitHub Metrics
 
 <p align="center">
