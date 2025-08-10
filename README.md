@@ -2,10 +2,6 @@
   <img src="/banner.jpeg" alt="Banner" width="100%" />
 </p>
 
-<div align="center">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/<github-username>"/>  
-</div>
-
 <p align="center">
   <strong style="font-size:1.2em; color:#6CD3BF;">Biochemist &amp; Software Developer</strong>
 </p>
