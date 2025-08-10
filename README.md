@@ -42,24 +42,6 @@ reading The Revenge of the Tipping Point by Malcolm Gladwell (awesome book so fa
 
 ---
 
-## 📫 Get in Touch
-
-If you like working on cool projects, want to collaborate on something interesting, or have an awesome research paper you would like me to check out, don't hesitate to reach out to me:
-
-<p align="center">
-  <a href="mailto:dsj11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dsj11@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-jeremiah-177416245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel_Jeremiah-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Daniel-Shunom">
-    <img src="https://img.shields.io/badge/GitHub-Daniel--Shunom-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
 </p>
