@@ -40,16 +40,3 @@ reading The Revenge of the Tipping Point by Malcolm Gladwell (awesome book so fa
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-Shunom&theme=radical&hide_border=true" width="45%" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
-</p>
-
-<p align="center">
-  <em style="color:#FF6EC7;">" Remember, you are here on this planet for the first and last time, so make sure you love the hell out of what you are doing, so you can make this existence worth the while "</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
-</p>
